@@ -108,7 +108,7 @@ To extract insights from complex datasets and communicate them through visuals a
 
 All screenshots and visual analyses are included in the PowerPoint file titled:
 
-"Data Analysis Portfolio - Mohan S.pptx"
+"Data Analysis Portfolio - Mohan S.pdf"
 ![image alt](https://github.com/MohanS-2009/Data-Analysis-Portfolio/blob/main/Data%20Analysis%20Portfolio%20-%20Thumbnail.PNG)
 
 
